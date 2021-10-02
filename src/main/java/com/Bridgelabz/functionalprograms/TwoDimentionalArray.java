@@ -1,4 +1,4 @@
-package com.Bridgelabz;
+package com.Bridgelabz.functionalprograms;
 
 /**
  * Create a Two Dimentional Array
